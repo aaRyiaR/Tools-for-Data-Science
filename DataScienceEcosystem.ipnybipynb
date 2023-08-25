@@ -55,12 +55,6 @@
    "metadata": {},
    "source": [
     "<h3> Below are a few examples of evaluating arithmetic expressions in Python </h3>\n",
-    "<ul>\n",
-    "    <li> == </li>\n",
-    "    <li> != </li>\n",
-    "    <li> > </li>\n",
-    "    <li> < </li>\n",
-    "</ul>"
    ]
   },
   {
@@ -109,7 +103,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Objectives:\n",
+    "**Objectives:**\n",
     "<ul>\n",
     "    <li> Listing popular languages for data science </li>\n",
     "    <li> Listing popular libraries for data science </li>\n",
